@@ -1,4 +1,5 @@
 Restart_apache 
+
     --A simple Bash script for reloading Apache vhost config.
 
 #How to Run
